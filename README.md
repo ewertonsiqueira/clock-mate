@@ -1,6 +1,24 @@
-# Vuetify (Default)
 
-This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
+# ClockMate
+
+ClockMate é um projeto para controle e cálculo de horas trabalhadas. Com ele, você pode:
+
+- Definir a quantidade de horas que pretende trabalhar por dia e os dias da semana, somando o total planejado.
+- Adicionar a quantidade de horas já trabalhadas para calcular quanto ainda falta cumprir.
+- Visualizar o saldo de horas de forma simples e prática.
+
+Ideal para quem precisa acompanhar a jornada de trabalho, seja para controle pessoal ou profissional.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- Vue 3
+- Vuetify 3
+- Pinia
+- Vite
+
+Em breve, novas atualizações e funcionalidades!
 
 ## ❗️ Important Links
 
