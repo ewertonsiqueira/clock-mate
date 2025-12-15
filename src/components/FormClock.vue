@@ -1,7 +1,7 @@
 <template>
   <v-container class="d-flex justify-center align-center" style="min-height: 100vh;">
-    <v-card class="mx-auto pa-6" max-width="400">
-      <v-card-title class="mx-auto text-h5 mb-4">ClockMate</v-card-title>
+    <v-card class="pa-6" max-width="400">
+      <v-card-title class="d-flex justify-center text-h5 mb-4">ClockMate</v-card-title>
       <v-card-text>
         <v-text-field
           v-model.number="total"
@@ -57,7 +57,3 @@
     return `${horas}h ${minutos.toString().padStart(2, '0')}min`
   }
 </script>
-
-<style>
-
-</style>
