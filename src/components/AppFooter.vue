@@ -41,7 +41,7 @@
     {
       title: 'Meu LinkedIn',
       icon: 'mdi-linkedin',
-      href: '#',
+      href: 'https://www.linkedin.com/in/ewerton-siqueira-173b981aa/',
     },
     {
       title: 'Meu GitHub',
